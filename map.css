@@ -93,6 +93,10 @@ html, body, #map {
 	color: #043361;
 }
 
+#policy-info .list-group {
+  line-height: 1.2;
+}
+
 
 /* close button */
 .close {
@@ -110,10 +114,6 @@ html, body, #map {
   color: #000000;
   text-decoration: none;
   opacity: 0.4;
-}
-
-.list-group {
-  line-height: 1.1;
 }
 
 /* glossary table */
@@ -215,13 +215,13 @@ table.glossary td {
 #layerSelectionContainer {
 	position: absolute;
 	top: 140px;
-	right: 100px;
+	right: 105px;
 	padding: 0px;
 }
 #geoSelectionContainer {
 	position: absolute;
 	top: 180px;
-	right: 100px;
+	right: 105px;
 	padding: 0px;
 }
 

@@ -43,6 +43,7 @@ html, body, #map {
 	top: 130px;
 	left: 20px;
 	width: 360px;
+	color: #043361;
 	background-color: white;
 	box-shadow: rgba(0,0,0,.1) 0 0 4px 2px;
 	font-size: 12px;
@@ -79,6 +80,19 @@ html, body, #map {
 	padding-bottom: 4px;
 	/* float: left; */ 
 }
+
+#policy-info .panel-footer {
+	padding-right: 20px;
+	font-size: 12px;
+	font-style: italic;
+    background-color: #c8d8e7;
+    list-style-type: none;
+}
+
+#policy-info .panel-footer a {
+	color: #043361;
+}
+
 
 /* close button */
 .close {

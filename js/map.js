@@ -76,7 +76,7 @@ function fillInventoryBox(inv) {
 		$("#inv12").text(inv[13]);
 		$("#inv13").text(inv[14]);
 		$("#inv14").text(inv[15]);
-		$("#inv15").text(inv[16]);
+		$("#inv15").attr("href", inv[16]);
 	}
 }
 

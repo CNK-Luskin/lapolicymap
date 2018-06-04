@@ -60,21 +60,22 @@ function fillInventoryBox(inv) {
 		$("#inv3").text(inv[4]);
 		$("#inv4").text(inv[5]);
 		$("#inv5").text(inv[6]);
+		// $("#inv6").text(inv[7]);
+		// $("#inv7").text(inv[8]);
 		$("#inv6").text(inv[7]);
+		// $("#inv9").text(inv[10]);
+		// $("#inv10").text(inv[11]);
 		$("#inv7").text(inv[8]);
 		$("#inv8").text(inv[9]);
+		// $("#inv13").text(inv[14]);
+		// $("#inv14").text(inv[15]);
 		$("#inv9").text(inv[10]);
 		$("#inv10").text(inv[11]);
+		// $("#inv17").text(inv[18]);
 		$("#inv11").text(inv[12]);
 		$("#inv12").text(inv[13]);
 		$("#inv13").text(inv[14]);
 		$("#inv14").text(inv[15]);
-		$("#inv15").text(inv[16]);
-		$("#inv16").text(inv[17]);
-		$("#inv17").text(inv[18]);
-		$("#inv18").text(inv[19]);
-		$("#inv19").text(inv[20]);
-		$("#inv20").text(inv[21]);
 	}
 }
 

@@ -109,7 +109,7 @@ vizjson({
                            {  
                               "name":"Right label",
                               "visible":true,
-                              "value":"99",
+                              "value":"14",
                               "type":"text",
                               "custom_value":true
                            },

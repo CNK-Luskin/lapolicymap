@@ -2,7 +2,7 @@
 // ID	NAME	Carto_ID	Carto_ID	Policies_Count	Just_Evict	Rent_Control	Rent_Mediation	Mobile_Home	Mobile_Home	Grad_Density	MU_Zone	Condo_Conv	Form_Based	Housing_Overlay_Year	Loc_Density	Incl_Housing	In_Lieu	Home_Rehab	Res_Fee	Comm_Fee	Buyer_Assist	Foreclose_Assist	Comm_Trust	Aff_Fund
 
 var inventoryText = [
-    ["0", "Agoura Hills", "58", "58", "2", "No", "No", "No", "No", "No", "Yes - Tenant notice, relocation assistance, inclusionary housing requirements apply, anti-discrimination policies", "No", "Yes", "No", "No", "No", "No", "No", "No", "https://library.municode.com/ca/agoura_hills/codes/code_of_ordinances"],
+    ["0", "Agoura Hills", "58", "58", "2", "YES", "No", "No", "No", "No", "Yes - Tenant notice, relocation assistance, inclusionary housing requirements apply, anti-discrimination policies", "No", "Yes", "No", "No", "No", "No", "No", "No", "https://library.municode.com/ca/agoura_hills/codes/code_of_ordinances"],
     ["1", "Alhambra", "86", "86", "1", "No", "No", "No", "No", "Yes - Housing Element states that SROs are permitted as boardinghouses in the R-3 zone", "No", "No (23.20.060)", "No", "No", "No", "No", "No", "No", "No", "http://library.amlegal.com/nxt/gateway.dll/California/alhambra/cityofalhambracaliforniacodeofordinances?f=templates$fn=default.htm$3.0$vid=amlegal:alhambra_ca"],
     ["2", "Arcadia", "68", "68", "0", "No", "No", "No", "No", "No", "No", "No (9103.15.030)", "No", "No", "No", "No", "No", "No", "No", "https://library.municode.com/ca/arcadia"],
     ["3", "Artesia", "10", "10", "1", "No", "No", "No", "No", "No", "No", "Yes (9-2.4302)", "No", "No", "No", "No", "No", "No", "No", "http://qcode.us/codes/artesia/"],
